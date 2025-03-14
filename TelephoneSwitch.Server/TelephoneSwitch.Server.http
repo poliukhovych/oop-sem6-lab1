@@ -1,0 +1,6 @@
+@TelephoneSwitch.Server_HostAddress = http://localhost:5204
+
+GET {{TelephoneSwitch.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

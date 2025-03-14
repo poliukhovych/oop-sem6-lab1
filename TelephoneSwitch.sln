@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "telephoneswitch.client", "telephoneswitch.client\telephoneswitch.client.esproj", "{69C65F04-DF36-06DD-F715-6A7EF7647422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelephoneSwitch.Server", "TelephoneSwitch.Server\TelephoneSwitch.Server.csproj", "{907C59CC-1F80-4483-A083-3F9088A9705B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C65F04-DF36-06DD-F715-6A7EF7647422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C65F04-DF36-06DD-F715-6A7EF7647422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C65F04-DF36-06DD-F715-6A7EF7647422}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{69C65F04-DF36-06DD-F715-6A7EF7647422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C65F04-DF36-06DD-F715-6A7EF7647422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C65F04-DF36-06DD-F715-6A7EF7647422}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{907C59CC-1F80-4483-A083-3F9088A9705B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907C59CC-1F80-4483-A083-3F9088A9705B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907C59CC-1F80-4483-A083-3F9088A9705B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907C59CC-1F80-4483-A083-3F9088A9705B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00DA7AE6-B1AB-48B5-A19E-6B8FEA33D985}
+	EndGlobalSection
+EndGlobal
